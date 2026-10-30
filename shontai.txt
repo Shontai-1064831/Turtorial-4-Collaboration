@@ -1,0 +1,3 @@
+Hello! My name is Shontai Vaughn. 
+This is my first Github collaboration project
+I am learning how to create repositories, branches, commits and pull requests
